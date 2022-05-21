@@ -13,9 +13,10 @@ namespace Semana6CRUD
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Delete : ContentPage
     {
-        const string uri = "http://192.168.1.7/moviles/post.php";
+        const string uri = "http://192.168.1.7/moviles1/post.php";
 
         public Delete()
+
         {
             InitializeComponent();
         }

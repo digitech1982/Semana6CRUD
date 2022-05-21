@@ -6,7 +6,7 @@
     <ContentPage.Content>
         <StackLayout>
             <Frame BackgroundColor="#2196F3" Padding="16" CornerRadius="0">
-                <Label Text="Ventana de Eliminación" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+                <Label Text="Eliminar Registro" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
             </Frame>
             <Entry x:Name="txtCodigo" Placeholder="Ingrese codigo" Keyboard="Numeric"/>
 
