@@ -14,6 +14,7 @@ namespace Semana6CRUD
     public partial class Delete : ContentPage
     {
         const string uri = "http://192.168.1.7/moviles/post.php";
+
         public Delete()
         {
             InitializeComponent();
