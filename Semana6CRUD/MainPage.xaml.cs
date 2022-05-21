@@ -30,6 +30,7 @@ namespace Semana6CRUD
                 cliente.UploadValues("http://192.168.1.7/moviles1/post.php", "POST",parametros);
 
                 DisplayAlert("Mensaje de alerta", "Ingreso Existoso", "OK");
+
             }
             catch (Exception)
             {
