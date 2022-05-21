@@ -48,6 +48,7 @@ namespace Semana6CRUD
             }
             catch (Exception)
             {
+
                 DisplayAlert("Mensaje de alerta", "Existe un error", "OK");
             }
         }
